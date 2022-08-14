@@ -1,0 +1,2 @@
+# khadar
+is software enginearing
